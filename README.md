@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/DaGo85">David G.'s</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/DaGo85">David G.</a>'s Profile 👋</h1>
 </p>
 
 <p>I am a self-taught front-end developer, I'm a creative Programmer, I also like to create Fullstack-Apps.</p>
@@ -49,17 +49,17 @@
 
 ### 👉 Frontend Development
 
-<-- Tailwind, react, next, materialui, framer-motion, firebase -->
+<!-- Tailwind, react, next, materialui, framer-motion, firebase 
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-</p>
+</p>-->
 
 ### 👉 Databases & Cloud Hosting
 
-<-- MongoDB, netlify,sequelize -->
+<!-- MongoDB, netlify,sequelize -->
 
 <p align="left">
   &emsp;
@@ -74,7 +74,7 @@
 
 ### 👉 Software & Tools
 
-<-- postman,mysql workbench -->
+<!-- postman,mysql workbench -->
 
 <p>
   &emsp;
@@ -117,3 +117,7 @@
 DaGo85/DaGo85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Project section
+
+<!-- Links to live sites and short description --->
