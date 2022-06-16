@@ -12,6 +12,13 @@
   <li>🧐 Portfolio Website, </li>
 </ul>
 
+<br>
+&nbsp;
+<a href="https://www.linkedin.com/in/david-g-9809a6217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:davegoergens@gmail.com?subject=Hallo%David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://davidgoergens.github.io/"><img alt="Portfolio" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
 ## Languages and Tools:
 
 ### 👉 Programming languages
