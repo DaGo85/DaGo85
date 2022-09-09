@@ -153,13 +153,17 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 
 #### Stats
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DaGo85&show_icons=true&include_all_commits=true&theme=onedark" alt="David's github stats" />
-</a>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaGo85&layout=compact&theme=onedark" />
-</a>
+<p align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DaGo85&show_icons=true&include_all_commits=true&theme=onedark" alt="David's github stats" />
+  </a>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaGo85&layout=compact&theme=onedark" />
+  </a>
+</p>
 <br />
 <br />
 <p align="center">
