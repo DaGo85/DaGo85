@@ -164,8 +164,6 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaGo85&layout=compact&theme=onedark" />
   </a>
 </p>
-<br />
-<br />
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaGo85&theme=onedark" alt="DaGo85" />
 </p>
@@ -176,4 +174,21 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 
 ### Project section
 
-<!-- Links to live sites and short description --->
+<p>Here are some of my notable projects:</p>
+</br>
+<h3>Fullstack Photo Artist App</h3>
+<a href="https://www.photo.davidgo.ch"></a>
+<a href="https://github.com/DaGo85/mern-photo-artist-app">Github Repo</a>
+</br>
+<h3>Fullstack Recipe App</h3>
+<a href="https://www.foody.davidgo.ch"></a>
+<a href="https://github.com/DaGo85/recipe-app">Github Repo</a>
+</br>
+<h3>Personal Portfolio</h3>
+<a href="https://www.davidgo.ch"></a>
+<a href="https://github.com/DaGo85/portfolio-v1">Github Repo</a>
+</br>
+<h3>Weather App</h3>
+<a href="https://www.weather.davidgo.ch"></a>
+<a href="https://github.com/DaGo85/weather-app">Github Repo</a>
+</br>
