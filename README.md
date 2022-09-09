@@ -26,8 +26,7 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 ### 👉 languages
 
 <p align="left"> 
-   &emsp;
-  <div>
+   &emsp;<div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
@@ -86,7 +85,7 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 ### 👉 Backend & Hosting
 
 <p align="left">
-  &emsp;
+  &emsp;<div>
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
@@ -121,7 +120,7 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
   &emsp;
   <a href="https://www.heroku.com/" target="_blank">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  </a> 
+  </a></div>
 </p>
 
 ### 👉 Software & Tools
