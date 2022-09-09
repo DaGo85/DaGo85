@@ -5,11 +5,11 @@
 <p>I am a self-taught front-end developer, I'm a creative Programmer, I also like to create Fullstack-Apps.</p>
 
 <ul>
-  <li>👋 Hi, I’m @DaGo85</li>
+  <li>👋 Hi, I’m @DaGo85.</li>
   <li>❤️ I love creating websites and programming.</li>
-  <li>🌱 I’m currently learning </li>
+  <li>🌱 I’m currently learning SASS.</li>
   <li>💼 I'm a self-taught Front end developer.</li>
-  <li>🧐 Portfolio Website, </li>
+  <li>🧐 My Portfolio: <a href="https://www.davidgo.ch">www.davidgo.ch</a></li>
 </ul>
 
 <br>
@@ -19,9 +19,11 @@
 <!--<a href="https://davidgoergens.github.io/"><img alt="Portfolio" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-## Languages and Tools I worked with:
+## Technical Skills
 
-### 👉 Programming languages
+I am a frontend dev who is used to working with JavaScript and my framework of choice is React. Here is a list of the technologies I worked with:
+
+### 👉 languages
 
 <p align="left"> 
    &emsp;
@@ -149,16 +151,12 @@
   </a>   
 </p>
 
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaGo85&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="DaGo85"></a></p>
-
 #### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DaGo85&show_icons=true&include_all_commits=true&theme=onedark" alt="David's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaGo85&layout=compact&theme=onedark" />
 </a>
@@ -171,11 +169,6 @@
 #### Contribution Graph
 
 [![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=DaGo85&theme=react-dark)](https://github.com/DaGo85/github-readme-activity-graph)
-
-<!---
-DaGo85/DaGo85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### Project section
 
