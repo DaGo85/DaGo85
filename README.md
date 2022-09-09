@@ -26,27 +26,26 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 ### 👉 languages
 
 <p align="left"> 
-   &emsp;<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-      <img alt="Java" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
-      &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    </a>   
-    &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a> 
-    &emsp;
-    <a href="https://www.python.org" target="_blank">
-      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    </a>
-  </div>
+   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+    &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -85,7 +84,7 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 ### 👉 Backend & Hosting
 
 <p align="left">
-  &emsp;<div>
+  &emsp;
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
@@ -120,7 +119,7 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
   &emsp;
   <a href="https://www.heroku.com/" target="_blank">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  </a></div>
+  </a> 
 </p>
 
 ### 👉 Software & Tools
@@ -176,20 +175,19 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 ### Project section
 
 <p>Here are some of my notable projects:</p>
-
 <h3>Fullstack Photo Artist App</h3>
-<a href="https://www.photo.davidgo.ch">Live Link</a>
+<a href="https://www.photo.davidgo.ch">Live Link</a></br>
 <a href="https://github.com/DaGo85/mern-photo-artist-app">Github Repo</a>
 </br>
 <h3>Fullstack Recipe App</h3>
-<a href="https://www.foody.davidgo.ch">Live Link</a>
+<a href="https://www.foody.davidgo.ch">Live Link</a></br>
 <a href="https://github.com/DaGo85/recipe-app">Github Repo</a>
 </br>
 <h3>Personal Portfolio</h3>
-<a href="https://www.davidgo.ch">Live Link</a>
+<a href="https://www.davidgo.ch">Live Link</a></br>
 <a href="https://github.com/DaGo85/portfolio-v1">Github Repo</a>
 </br>
 <h3>Weather App</h3>
-<a href="https://www.weather.davidgo.ch">Live Link</a>
+<a href="https://www.weather.davidgo.ch">Live Link</a></br>
 <a href="https://github.com/DaGo85/weather-app">Github Repo</a>
 </br>
