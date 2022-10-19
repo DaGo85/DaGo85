@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I’m @DaGo85.</li>
   <li>❤️ I love creating websites and programming.</li>
-  <li>🌱 I’m currently learning SASS.</li>
+  <li>🌱 I’m currently learning Angular and SCSS.</li>
   <li>💼 I'm a self-taught Front end developer.</li>
   <li>🧐 My Portfolio: <a href="https://www.davidgo.ch">www.davidgo.ch</a></li>
 </ul>
