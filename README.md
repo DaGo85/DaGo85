@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I’m @DaGo85.</li>
   <li>❤️ I love creating websites and programming.</li>
-  <li>🌱 I’m currently learning Angular and SCSS.</li>
+  <li>🌱 I’m currently learning Angular and SASS.</li>
   <li>💼 I'm a self-taught Front end developer.</li>
   <li>🧐 My Portfolio: <a href="https://www.davidgo.ch">www.davidgo.ch</a></li>
 </ul>
@@ -60,8 +60,16 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
     <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img alt="SCSS/SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://mui.com/" target="_blank">
@@ -190,4 +198,8 @@ I am a frontend dev who is used to working with JavaScript and my framework of c
 <h3>Weather App</h3>
 <a href="https://www.weather.davidgo.ch">Live Link</a></br>
 <a href="https://github.com/DaGo85/weather-app">Github Repo</a>
+</br>
+<h3>Angular Weather App</h3>
+<a href="https://www.angular-weather.davidgo.ch">Live Link</a></br>
+<a href="https://github.com/DaGo85/angular-weather-app">Github Repo</a>
 </br>
